@@ -6,3 +6,4 @@ mlflow
 lightgbm
 plotly
 matplotlib
+shap
